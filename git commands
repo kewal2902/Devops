@@ -1,0 +1,21 @@
+git init
+
+git config --global user.email "_@"
+git config --gloabal user.name "name"
+
+git status
+
+git add . 
+
+git commit -m "first try"  /  git commit "filename" -m "added file"
+
+git branch -a (branching)
+git branch branchname (create new branch)
+
+git clone "clone url" (cloning)
+
+git push origin main (push)
+
+git pull "google url" (pull)
+
+for forking click fork of any repo
